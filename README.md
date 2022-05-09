@@ -8,8 +8,8 @@
 <p align="center">
     <strong>
         <a href="https://danil.vecel.app">Website</a> ·
-        <a>Publications</a> ·
-        <a>Resume</a>
+        <a href="https://dev.to/sejjax">Publications</a> ·
+        <a href="https://sejjax.notion.site/Danil-Sokolov-Resume-2cdf3340948447d6a67af27ce33e2dbf">Resume</a>
     </strong>
 </p>
 <div align="center">

@@ -15,7 +15,7 @@ My website: [danil.vercel.app](https://danil.vercel.app)
 
 Telegram: [@sejjax](https://t.me/sejjax)
 
-Mail: [sejjax@gmail.com](mailto:Danil Sokolov<sejjax@gmail.com>)
+Mail: sejjax@gmail.com>
 
 Twitter: [@sejjax](https://twitter.com/sejjax)
 

@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
           feed_names: Dev.to
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

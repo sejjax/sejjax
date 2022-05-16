@@ -16,7 +16,7 @@
 <hr/>
 
 ### 😀 About
-Danil is React Frontend Developer. He is able and ready to build modern highly profitable and scalable web application using the most modern technologies and approaches to writing it. 
+Danil is FullStack Web Developer. He is able and ready to build modern highly profitable and scalable web application using the most modern technologies and approaches to writing it. 
 He has experience in this already more than 3 years. He is always interested in modernisation and improvement of user experience. 
 Danil Sokolov will be glad to join your company and develop your product!
 Also, I have an experience of mentoring on my latest job.

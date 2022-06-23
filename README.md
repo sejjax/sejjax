@@ -16,10 +16,7 @@
 <hr/>
 
 ### 😀 About
-Danil is FullStack Web Developer. He is able and ready to build modern highly profitable and scalable web application using the most modern technologies and approaches to writing it. 
-He has experience in this already more than 3 years. He is always interested in modernisation and improvement of user experience. 
-Danil Sokolov will be glad to join your company and develop your product!
-Also, I have an experience of mentoring on my latest job.
+Hey, my name is Danil and I am FullStack Developer with passion to all new technologies and professional challenges. I am capable and fully ready to create and developer highly profitable and scalable web applications using up to date technologies and approaches. I have chose the following development path as I was always interested in modernisation and improvement of all types of user experience areas. It would be a great challenge and contribution to join your company or become a part of your development team! As a developer I do not have any bad habits, I consider myself as a responsible employee with high willingness to developer my skills and professional experience. Please, do not hesitate and contact me at any time.
 
 ### 🛠 Skills and used languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

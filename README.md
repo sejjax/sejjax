@@ -2,9 +2,7 @@
 <h3 align="center">FullStack Web developer</h3>
 <p align="center">
     <strong>
-        <a href="https://danil.vercel.app">Website</a> ·
-        <a href="https://dev.to/sejjax">Publications</a> ·
-        <a href="https://sejjax.notion.site/Danil-Sokolov-Resume-2cdf3340948447d6a67af27ce33e2dbf">Resume</a>
+        <a href="https://danil.vercel.app">Website</a>
     </strong>
 </p>
 <div align="center">

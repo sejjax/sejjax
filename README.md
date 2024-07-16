@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey! My name is Danil Sokolov</h1>
-<h3 align="center">FullStack Web developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <p align="center">
     <strong>
         <a href="https://danil.vercel.app">Website</a>
@@ -14,7 +14,7 @@
 <hr/>
 
 ### 😀 About
-Hey, my name is Danil and I am FullStack Developer with passion to all new technologies and professional challenges. I am capable and fully ready to create and developer highly profitable and scalable web applications using up to date technologies and approaches. I have chose the following development path as I was always interested in modernisation and improvement of all types of user experience areas. It would be a great challenge and contribution to join your company or become a part of your development team! As a developer I do not have any bad habits, I consider myself as a responsible employee with high willingness to developer my skills and professional experience. Please, do not hesitate and contact me at any time.
+Hello, I’m experienced Senior Full Stack Developer with a passion for integrating new technologies and tackling professional challenges. Skilled in creating highly profitable and scalable web applications using cutting-edge technologies and architectural approaches. With over 4 years of professional experience, I specialize in modernizing and enhancing user experience areas. Eager to contribute to your company's success and thrive as part of your development team.
 
 ### 🛠 Skills and used languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -46,11 +46,6 @@ Hey, my name is Danil and I am FullStack Developer with passion to all new techn
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-### ⚡ Interesting facts
-- I started programming at the age of 15. 
-- I like to play ping pong and ride a bike in a forest.
-- I don't have any bad habitats and lead a healthy lifestyle.
 
 ### 📫 How to reach me
 - Telegram - [@sejjax](https://t.me/sejjax)
